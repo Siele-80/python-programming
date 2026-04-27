@@ -1,2 +1,2 @@
 # python-programming
-My fisrt python presentation
+My first python presentation
