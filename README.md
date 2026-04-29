@@ -8,7 +8,7 @@ Objective: This toolkit documents the journey of learning Python for backend dev
 The goal is to provide a clear and guide for a beginner to:
 Understand core Python concepts
 Build practical command-line applications
-Why Python? Python is a programming language designed to create software, websites and even apps.
+Why Python? Python works on different platforms and runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 It is used in several industries; Healthcare, Finance, Entertainment, Science & Research, AI, Web Development and Cybersecurity
 End goal: To design and develop a functional AI-powered healthcare chatbot using Python
 
