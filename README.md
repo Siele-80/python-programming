@@ -152,6 +152,8 @@ python3 -c "import sys; print(sys.version)"
 ```
 
 **5. Minimal Working Example**
+
+
 name = "Sharon"
 age = "22"
 subject = "Python"
@@ -160,8 +162,8 @@ print("I am" +str(age) + "years old")
 print("I am learning" + subject)
 
 
-age = int(input("How old are you? "))
 
+age = int(input("How old are you? "))
 if age >= 18:
     print("You are adult pro!")
 else:
@@ -170,8 +172,8 @@ else:
 
 Learning Journey
 
-
 1. Basics
+
 Variables, data types
 Conditions and loops
 Functions
