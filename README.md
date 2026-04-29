@@ -157,10 +157,10 @@ python3 -c "import sys; print(sys.version)"
 name = "Sharon"
 age = "22"
 subject = "Python"
-print("My name is" + name)
-print("I am" +str(age) + "years old")
-print("I am learning" + subject)
 
+print("My name is " + name)
+print("I am " + str(age) + " years old")
+print("I am learning " + subject)
 
 
 age = int(input("How old are you? "))
