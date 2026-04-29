@@ -1,5 +1,7 @@
 # python-programming
 My first python presentation
+
+
 **1. Title & Objective**
 Title: A Beginners toolkit for Python
 Objective: This toolkit documents the journey of learning Python for backend development. It highlights a structured progression—from building simple command-line application
@@ -10,6 +12,7 @@ Why Python? Python is a programming language designed to create software, websit
 It is used in several industries; Healthcare, Finance, Entertainment, Science & Research, AI, Web Development and Cybersecurity
 End goal: To design and develop a functional AI-powered healthcare chatbot using Python
 
+
 ****2. Quick Summary of the Technology**
 What is Python?**
 Python is a programming language designed to create software, websites and even apps.
@@ -17,16 +20,21 @@ Python is a programming language designed to create software, websites and even 
 It is used in several industries; Healthcare, Finance, Entertainment, Science & Research, AI, Web Development and Cybersecurity
 **Real-world example:**
 Spotify- Spotify uses Python to power its famous "Discover Weekly" playlist — that personalized playlist of 30 songs delivered to you every single day that somehow feels like it was handpicked by someone who knows your music taste perfectly, or someone who stalks ypur daily moves.
+
+
 **3. System Requirements**
 **Operating System:**
 Windows (as tested), macOS, or Linux
+
 
 **Tools & Editors:**
 VS Code, VS Code Extensions; Python, PyCharm, Python debugger, Pylance, Google Colab
 Packages: pip(comes with Python automatically)
 
+
 **4. Installation & Setup Instructions**
 Step by step
+
 **Step 1: Install Python**
 On Windows
 Open your browser and type python.org and select the latest version of python
@@ -67,6 +75,7 @@ You should be able to see this
 C:\Users\yourname> python --version
 Python 3.12. 
 
+
 **on Linux**
 1. Open your terminal
 2. Run the following command and follow the on-screen instructions:
@@ -101,6 +110,7 @@ Expected terminal output:
 ```
 pip 23.0 from /usr/local/lib/python3.12/site-packages/pip
 ```
+
 **Linux**
 Verify pip Installation
 ```bash
@@ -119,6 +129,7 @@ Mac      →  .dmg installer
 Linux    →  .deb installer
 Run the installer
 Click through all default options
+
 **Install Python extension**
 Open:    VS Code
 Press:   Ctrl + Shift + X  (Cmd + Shift + X on Mac)
@@ -158,6 +169,8 @@ else:
 
 
 Learning Journey
+
+
 1. Basics
 Variables, data types
 Conditions and loops
@@ -190,11 +203,16 @@ is_admitted  = True
 **6. AI Agents Utilised**
 Claude
 ChatGpt
+
+
 **7. AI Prompt Journal**
 **Prompt used:** 
+
+
 Prompt 1 **Guided Learning Phase**
 I'm new to Python and fairly new to coding, and I'd like you to be my Python tutor. Instead of giving direct answers, please help me learn by:- Asking guiding questions that help me discover solutions- Breaking down problems into smaller steps- Giving hints when I'm stuck rather than complete solutions- Encouraging me to explain my thinking- Pointing out patterns and connections to previous concepts- Helping me debug by asking me to examine my assumptionsLet's start with [specific coding or python question]"
 **AI Helpfulness:** This prompt really helped in that instead of giving direct answers, it challenges me to think through problems using guided questions, helping me build a deeper understanding of concepts. It has improved my ability to break down problems, recognize patterns, and debug code more effectively.
+
 
 Prompt 2 **Understanding Verification**
 I've created this python implementation: 
@@ -214,6 +232,7 @@ Could you:
 **AI Helpfulness**
 This exercise is useful for building foundational Python skills, including handling user input, type conversion, and conditional logic. It also introduces basic problem-solving and highlights the importance of writing user-friendly and error-resistant code.
 
+
 Prompt 3 **Real-World Troubleshooting**
 "I'm following a tutorial to write Python code. I ran a simple program that asked the user for their age and used int() to convert the input into a number. However, when I entered a non-numeric value like "twenty", the program crashed with a ValueError.
 
@@ -227,6 +246,7 @@ This phase focuses on developing practical debugging and problem-solving skills 
         print("You are really young!")
 except ValueError:
     print("Please enter a valid number.")
+
 
 **8. Common Issues & Fixes**
 | Issue                         | Cause                            | Fix                                 | Example                     |
@@ -243,4 +263,6 @@ except ValueError:
 
 **9. References**
 Youtube Programming with Mosh: https://mosh.link/python-course
-w3scools: https://www.w3schools.com/python/python_intro.asp
+
+
+w3schools: https://www.w3schools.com/python/python_intro.asp
